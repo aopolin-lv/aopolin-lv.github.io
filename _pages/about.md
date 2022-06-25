@@ -24,7 +24,7 @@ I am interested in natural language processing and curious about many of the iss
 At present, I am looking for Ph.d opportunites. Meanwhile, I want to cooperate with nice researchers and keep learning from them. On average, I spend 50+ hours per week in NLP related research.
 
 # 📝 Publications 
-\ \ \* means equal contribution
+&nbsp\* means equal contribution
 
 - General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining.
 **Q Lv**\*, Z Cao\*, L Geng, C Ai, X Yan and G Fu (TALLIP, major revised) \[[PDF](https://arxiv.org/abs/2203.10929)\] \[[Code](https://github.com/Aopolin-Lv/ECSpell)\]
@@ -48,5 +48,7 @@ At present, I am looking for Ph.d opportunites. Meanwhile, I want to cooperate w
 *2022.04 - now*, Baidu Inc., reasearch intern, working with [Wenrui Xie](https://github.com/datawhalechina/pumpkin-book) (whose github repos achieves 20k+ stars).
 
 # 📋 Academic Activities
-Reviewer: ARR 2022 Feb, COLING 2022
-Organizer: [The eval task of high quality article recognition based on knowledge graph, CCKS2022](https://aistudio.baidu.com/aistudio/competition/detail/255/0/submit-result),  [The eval task of video key moment generation, CCL202](https://aistudio.baidu.com/aistudio/competition/detail/304/0/introduction)
+Reviewer: ARR 2022 Feb, COLING 2022  
+Organizer: 
+&nbsp - [CCKS 2022: The eval task of high quality article recognition based on knowledge graph](https://aistudio.baidu.com/aistudio/competition/detail/255/0/submit-result)
+&nbsp - [CCL 2022: The eval task of video key moment generation](https://aistudio.baidu.com/aistudio/competition/detail/304/0/introduction)
