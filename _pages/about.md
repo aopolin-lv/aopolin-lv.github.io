@@ -47,5 +47,5 @@ The Conditianal Story Text Generation based on Given Outlines, held by Chinese I
 # 💻 Internships
 *2022.04 - present*, Baidu.Inc, reasearch intern.
 
-# 🎫Sevices
+# 🎫 Sevices
 Reviewer: ARR 2022 Feb, COLING 2022
