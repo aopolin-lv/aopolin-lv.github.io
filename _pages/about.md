@@ -24,7 +24,7 @@ I am interested in natural language processing and curious about many of the iss
 At present, I am looking for Ph.d opportunites. Meanwhile, I want to cooperate with nice researchers and keep learning from them. On average, I spend 50+ hours per week in NLP related research.
 
 # 📝 Publications 
-&nbsp\* means equal contribution
+\* means equal contribution
 
 - General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining.
 **Q Lv**\*, Z Cao\*, L Geng, C Ai, X Yan and G Fu (TALLIP, major revised) \[[PDF](https://arxiv.org/abs/2203.10929)\] \[[Code](https://github.com/Aopolin-Lv/ECSpell)\]
