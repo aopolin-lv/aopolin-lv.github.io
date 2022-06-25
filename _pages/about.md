@@ -32,7 +32,7 @@ I am looking for Ph.d. opportunites. Meanwhile, I want to cooperate with nice re
 Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification.
 **Q Lv**\*, L Geng\*, Z Cao, M Cao, W Li, S Li and G FU (Neurips 2022, under review)
 
-# 🏆Competition
+# 🏆 Competition
 [The Entity Identification for E-Commodity Titles](https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content), held by National Association for Artificial Intelligence in 2022.6. **Rank 11/700+**
 
 Shuguang Cup Jiangsu University Official Document Correction Competition, held by Sugon company and Jiangsu Artificial Intelligence Association in 2021.12. **The 1st prize**
