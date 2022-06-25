@@ -30,7 +30,7 @@ I am interested in natural language processing and curious about many of the iss
 
 # 🏆Competition
 - The Evaluation Task of Chinese Textual Error Correction in Official Document Writing, held by Shuguang company and Jiangsu Artificial Intelligence Association. **Top 2**
-- The Evaluation Task of Named Entity Identification for E-Commodity Titles, held by National Association for artificial intelligence. **Rank 11/700+**
+- The Evaluation Task of Named Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence. **Rank 11/700+**
 - The Evaluation Task of Conditianal Story Text Generation based on Given Outlines, held by Chinese Information Processing Society of China. **Top 4**
 
 # 📖 Educations
