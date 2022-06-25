@@ -21,27 +21,27 @@ I am a second-year M.S. student at [Institute of Artifical Intellgence](http://i
 
 I am interested in natural language processing and curious about many of the issues involved. Previously, I did some simple attempts to the Chinese Spelling Check task, and in future I would like to investigate the robustness, explainable of NLP models.
 
-I am also eager to work with nice researchers. I spend 50+ hours per week in NLP related research on average.
+I am looking for Ph.d. opportunites. Meanwhile, I want to cooperate with nice researchers and learn from them continuely.  On average, I spend 50+ hours per week in NLP related research.
 
 # 📝 Publications 
 \* means equal contribution
-- [General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining](https://arxiv.org/abs/2203.10929)
+[General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining](https://arxiv.org/abs/2203.10929)
 **Q Lv**\*, Z Cao\*, L Geng, C Ai, X Yan and G Fu (TALLIP, major revised)
 
-- Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification
+Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification
 **Q Lv**\*, L Geng\*, Z Cao, M Cao, W Li, S Li and G FU (Neurips 2022, under review)
 
 # 🏆Competition
-- The Chinese Textual Error Correction in Official Document Writing, held by Shuguang company and Jiangsu Artificial Intelligence Association in 2021.12. **The 1st prize**
-- The Conditianal Story Text Generation based on Given Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2st prize**
-- The Named Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence in 2022.6. **Rank 11/700+**
+The Chinese Textual Error Correction in Official Document Writing, held by Shuguang company and Jiangsu Artificial Intelligence Association in 2021.12. **The 1st prize**
+The Conditianal Story Text Generation based on Given Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2st prize**
+The Named Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence in 2022.6. **Rank 11/700+**
 
 # 📖 Educations
-- *2020.06 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
-- *2014.09 - 2018.06*, Software Engineering, Computer Sciences and Technical Department, Soochow University
+*2020.06 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
+*2014.09 - 2018.06*, Software Engineering, Computer Sciences and Technical Department, Soochow University
 
 # 💻 Internships
-- *2022.04 - present*, Baidu.Inc, reasearch intern.
+*2022.04 - present*, Baidu.Inc, reasearch intern.
 
 # 🎫Sevices
-- Reviewer: ARR 2022 Feb, COLING 2022
+Reviewer: ARR 2022 Feb, COLING 2022
