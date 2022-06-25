@@ -26,8 +26,8 @@ I am looking for Ph.d. opportunites. Meanwhile, I want to cooperate with nice re
 # 📝 Publications 
 \* means equal contribution
 
-[General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining](https://arxiv.org/abs/2203.10929).
-**Q Lv**\*, Z Cao\*, L Geng, C Ai, X Yan and G Fu (TALLIP, major revised)
+General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining.
+**Q Lv**\*, Z Cao\*, L Geng, C Ai, X Yan and G Fu (TALLIP, major revised) \[[PDF](https://arxiv.org/abs/2203.10929)\] \[[Code](https://github.com/Aopolin-Lv/ECSpell)\]
 
 Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification.
 **Q Lv**\*, L Geng\*, Z Cao, M Cao, W Li, S Li and G FU (Neurips 2022, under review)
