@@ -19,7 +19,7 @@ redirect_from:
 
 I am a second-year M.S. student at [Institute of Artifical Intellgence](http://iai.suda.edu.cn/) of [Soochow University](https://www.suda.edu.cn/), advised by Associate Prof. [Ziqiang Cao](https://scholar.google.com/citations?user=06ITfcEAAAAJ&hl=zh-CN) and Prof. [Guohong Fu](https://www.semanticscholar.org/author/G.-Fu/2059275). I am so honour to work with them. Before, I received B.S. degree in Software engineering from the same school.
 
-I am intersted in natural language processing. Previously, I did some simple attempts to the Chinese Spelling Check task, and in future I would like to investigate the robustness, explainable of NLP models.
+I am interested in natural language processing and curious about many of the issues involved. Previously, I did some simple attempts to the Chinese Spelling Check task, and in future I would like to investigate the robustness, explainable of NLP models.
 
 # 📝 Publications 
 - [General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining](https://arxiv.org/abs/2203.10929)
