@@ -32,8 +32,8 @@ General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretrai
 Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification.
 **Q Lv**\*, L Geng\*, Z Cao, M Cao, W Li, S Li and G FU (Neurips 2022, under review)
 
-# 🏆 Competition
-The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence in 2022.6. **The 3rd prize, Ranking 11/700+** \[[Details]((https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content))\]
+# 🏆 Competitions
+The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence in 2022.6. **The 3rd prize, Ranking 11/700+** \[[Website]((https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content))\]
 
 The Shuguang Cup Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Sugon company and Jiangsu Artificial Intelligence Association in 2021.12. **The 1st prize, Ranking 2/20+**
 
