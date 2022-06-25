@@ -19,7 +19,7 @@ redirect_from:
 
 I am a second-year M.S. student at [Institute of Artifical Intellgence](http://iai.suda.edu.cn/) of [Soochow University](https://www.suda.edu.cn/), advised by Associate Prof. [Ziqiang Cao](https://scholar.google.com/citations?user=06ITfcEAAAAJ) and Prof. [Guohong Fu](https://www.semanticscholar.org/author/G.-Fu/2059275). I am so honour to work with them. Before, I received B.E in Software engineering from the same school.
 
-I am interested in natural language processing and curious about many of the issues involved. Before that, I started my research for more than a year and made some simple attempts on the Chinese Spell Checking task. In the future, I would like to investigate natural language processing more deeply and explore more from a cognitive perspective.
+I am interested in natural language processing and curious about many of the issues involved. Before that, I started my research for more than a year and made some simple attempts on the Chinese Spell Check task. In the future, I would like to investigate natural language processing more deeply and explore more from a cognitive perspective.
 
 At present, I am looking for Ph.d opportunites. Meanwhile, I want to cooperate with nice researchers and keep learning from them. On average, I spend 50+ hours per week in NLP related research.
 
