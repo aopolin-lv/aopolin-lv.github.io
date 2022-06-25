@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year M.S. student at [Institute of Artifical Intellgence](http://iai.suda.edu.cn/) of [Soochow University](https://www.suda.edu.cn/), advised by Associate Prof. [Ziqiang Cao](https://scholar.google.com/citations?user=06ITfcEAAAAJ&hl=zh-CN) and Prof. [Guohong Fu](https://www.semanticscholar.org/author/G.-Fu/2059275). I am so honour to work with them. Before, I received B.S. degree in Software engineering from the same school.
+I am a second-year M.S. student at [Institute of Artifical Intellgence](http://iai.suda.edu.cn/) of [Soochow University](https://www.suda.edu.cn/), advised by Associate Prof. [Ziqiang Cao](https://scholar.google.com/citations?user=06ITfcEAAAAJ) and Prof. [Guohong Fu](https://www.semanticscholar.org/author/G.-Fu/2059275). I am so honour to work with them. Before, I received B.E in Software engineering from the same school.
 
 I am interested in natural language processing and curious about many of the issues involved. Before that, I started my research for more than a year and made some simple attempts on the Chinese Spell Checking task. In the future, I would like to investigate natural language processing more deeply and explore more from a cognitive perspective.
 
@@ -42,10 +42,10 @@ At present, I am looking for Ph.d. opportunites. Meanwhile, I want to cooperate 
 # 📖 Educations
 *2020.09 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
 
-*2014.09 - 2018.06*, B.S degree, Software Engineering, Computer Sciences and Technical Department, Soochow University
+*2014.09 - 2018.06*, B.E, Software Engineering, Computer Sciences and Technical Department, Soochow University
 
 # 💻 Internships
 *2022.04 - now*, Baidu.Inc, reasearch intern, working with [Wenrui Xie](https://github.com/datawhalechina/pumpkin-book) (whose github repos achieves 20k+ stars).
 
-# 🎫 Sevices
+# 📋 Academic Activities
 Reviewer: ARR 2022 Feb, COLING 2022
