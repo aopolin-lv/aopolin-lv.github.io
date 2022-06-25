@@ -25,6 +25,7 @@ I am looking for Ph.d. opportunites. Meanwhile, I want to cooperate with nice re
 
 # 📝 Publications 
 \* means equal contribution
+
 [General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining](https://arxiv.org/abs/2203.10929)
 **Q Lv**\*, Z Cao\*, L Geng, C Ai, X Yan and G Fu (TALLIP, major revised)
 
@@ -33,11 +34,14 @@ Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Cla
 
 # 🏆Competition
 [The Entity Identification for E-Commodity Titles](https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content), held by National Association for Artificial Intelligence in 2022.6. **Rank 11/700+**
+
 Shuguang Cup Jiangsu University Official Document Correction Competition, held by Sugon company and Jiangsu Artificial Intelligence Association in 2021.12. **The 1st prize**
+
 The Conditianal Story Text Generation based on Given Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2st prize**
 
 # 📖 Educations
 *2020.06 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
+
 *2014.09 - 2018.06*, Software Engineering, Computer Sciences and Technical Department, Soochow University
 
 # 💻 Internships
