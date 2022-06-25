@@ -45,7 +45,7 @@ The Conditianal Story Text Generation based on Given Outlines, held by Chinese I
 *2014.09 - 2018.06*, Software Engineering, Computer Sciences and Technical Department, Soochow University
 
 # 💻 Internships
-*2022.04 - present*, Baidu.Inc, reasearch intern, work with [Wenrui Xie](https://github.com/datawhalechina/pumpkin-book) (whose github repos achieves 20k+ stars).
+*2022.04 - present*, Baidu.Inc, reasearch intern, working with [Wenrui Xie](https://github.com/datawhalechina/pumpkin-book) (whose github repos achieves 20k+ stars).
 
 # 🎫 Sevices
 Reviewer: ARR 2022 Feb, COLING 2022
