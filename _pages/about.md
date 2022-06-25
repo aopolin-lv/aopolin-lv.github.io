@@ -50,5 +50,5 @@ At present, I am looking for Ph.d opportunites. Meanwhile, I want to cooperate w
 # 📋 Academic Activities
 Reviewer: ARR 2022 Feb, COLING 2022  
 Organizer: 
-&nbsp - [CCKS 2022: The eval task of high quality article recognition based on knowledge graph](https://aistudio.baidu.com/aistudio/competition/detail/255/0/submit-result)
-&nbsp - [CCL 2022: The eval task of video key moment generation](https://aistudio.baidu.com/aistudio/competition/detail/304/0/introduction)
+  - [CCKS 2022: The eval task of high quality article recognition based on knowledge graph](https://aistudio.baidu.com/aistudio/competition/detail/255/0/submit-result)
+  - [CCL 2022: The eval task of video key moment generation](https://aistudio.baidu.com/aistudio/competition/detail/304/0/introduction)
