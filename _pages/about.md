@@ -33,7 +33,7 @@ Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Cla
 **Q Lv**\*, L Geng\*, Z Cao, M Cao, W Li, S Li and G FU (Neurips 2022, under review)
 
 # 🏆 Competition
-[The Entity Identification for E-Commodity Titles](https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content), held by National Association for Artificial Intelligence in 2022.6. **The 3rd prize, Ranking 11/700+**
+The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence in 2022.6. **The 3rd prize, Ranking 11/700+** \[[Details]((https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content))\]
 
 The Shuguang Cup Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Sugon company and Jiangsu Artificial Intelligence Association in 2021.12. **The 1st prize, Ranking 2/20+**
 
@@ -42,7 +42,7 @@ The Conditianal Story Text Generation based on Given Outlines, held by Chinese I
 # 📖 Educations
 *2020.09 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
 
-*2014.09 - 2018.06*, Software Engineering, Computer Sciences and Technical Department, Soochow University
+*2014.09 - 2018.06*, B.S degree, Software Engineering, Computer Sciences and Technical Department, Soochow University
 
 # 💻 Internships
 *2022.04 - present*, Baidu.Inc, reasearch intern, working with [Wenrui Xie](https://github.com/datawhalechina/pumpkin-book) (whose github repos achieves 20k+ stars).
