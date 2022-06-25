@@ -38,10 +38,10 @@ I am also eager to work with nice researchers. I spend 50+ hours per week in NLP
 
 # 📖 Educations
 - *2020.06 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
-- *2014.09 - 2018.06*, Software engineering, Computer Sciences and Technical Department, Soochow University
+- *2014.09 - 2018.06*, Software Engineering, Computer Sciences and Technical Department, Soochow University
 
 # 💻 Internships
-- *2022.04 - present*, Baidu.Inc, Beijing, China.
+- *2022.04 - present*, Baidu.Inc, reasearch intern.
 
 # 🎫Sevices
 - Reviewer: ARR 2022 Feb, COLING 2022
