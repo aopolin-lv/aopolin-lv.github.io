@@ -32,9 +32,9 @@ I am also eager to work with nice researchers. I spend 50+ hours per week in NLP
 **Q Lv**\*, L Geng\*, Z Cao, M Cao, W Li, S Li and G FU (Neurips 2022, under review)
 
 # 🏆Competition
-- The Evaluation Task of Chinese Textual Error Correction in Official Document Writing, held by Shuguang company and Jiangsu Artificial Intelligence Association. **Top 2**
-- The Evaluation Task of Named Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence. **Rank 11/700+**
-- The Evaluation Task of Conditianal Story Text Generation based on Given Outlines, held by Chinese Information Processing Society of China. **Top 4**
+- The Chinese Textual Error Correction in Official Document Writing, held by Shuguang company and Jiangsu Artificial Intelligence Association in 2021.12. **The 1st prize**
+- The Conditianal Story Text Generation based on Given Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2st prize**
+- The Named Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence in 2022.6. **Rank 11/700+**
 
 # 📖 Educations
 - *2020.06 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
