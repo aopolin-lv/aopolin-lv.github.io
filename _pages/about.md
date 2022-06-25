@@ -37,7 +37,7 @@ At present, I am looking for Ph.d opportunites. Meanwhile, I want to cooperate w
 
 - The Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Jiangsu Artificial Intelligence Association and Sugon Inc. in 2021.12. **The 1st prize, ranking 2/20+**
 
-- The Conditianal Story Generation based on Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2nd prize, ranking 2/20+**
+- The Conditianal Story Generation based on Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2nd prize, ranking 3/20+**
 
 # 📖 Educations
 *2020.09 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
