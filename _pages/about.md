@@ -23,8 +23,10 @@ I am intersted in natural language processing. Previously, I did some simple att
 
 # 📝 Publications 
 - [General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining](https://arxiv.org/abs/2203.10929)
+**Q Lv**\*, Z Cao\*, L Geng, C Ai, X Yan and G Fu (TALLIP, Major Revised)
 
-**Lv, Qi** and Cao, Ziqiang and Geng, Lei and Ai, Chunhui and Yan, Xu and Fu, Guohong
+- Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification
+**Q Lv**\*, L Geng\*, Z Cao, M Cao, W Li, S Li and G FU (Neurips 2022, under review)
 
 # 🏆Competition
 - The Evaluation Task of Chinese Textual Error Correction in Official Document Writing, held by Shuguang company and Jiangsu Artificial Intelligence Association. **Top 2**
