@@ -26,18 +26,18 @@ I am looking for Ph.d. opportunites. Meanwhile, I want to cooperate with nice re
 # 📝 Publications 
 \* means equal contribution
 
-General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining.
+- General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining.
 **Q Lv**\*, Z Cao\*, L Geng, C Ai, X Yan and G Fu (TALLIP, major revised) \[[PDF](https://arxiv.org/abs/2203.10929)\] \[[Code](https://github.com/Aopolin-Lv/ECSpell)\]
 
-Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification.
+- Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification.
 **Q Lv**\*, L Geng\*, Z Cao, M Cao, W Li, S Li and G FU (Neurips 2022, under review)
 
 # 🏆 Competitions
-The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence in 2022.6. **The 3rd prize, ranking 11/700+** \[[Website]((https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content))\]
+- The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence in 2022.6. **The 3rd prize, ranking 11/700+** \[[Website]((https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content))\]
 
-The Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Sugon company and Jiangsu Artificial Intelligence Association in 2021.12. **The 1st prize, ranking 2/20+**
+- The Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Sugon company and Jiangsu Artificial Intelligence Association in 2021.12. **The 1st prize, ranking 2/20+**
 
-The Conditianal Story Text Generation based on Given Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2nd prize, ranking 2/20+**
+- The Conditianal Story Text Generation based on Given Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2nd prize, ranking 2/20+**
 
 # 📖 Educations
 *2020.09 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
