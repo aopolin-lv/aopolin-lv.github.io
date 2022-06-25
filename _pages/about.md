@@ -40,7 +40,7 @@ The Shuguang Cup Chinese Textual Error Correction Competition in Official Docume
 The Conditianal Story Text Generation based on Given Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2nd prize, Ranking 2/20+**
 
 # 📖 Educations
-*2020.06 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
+*2020.09 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
 
 *2014.09 - 2018.06*, Software Engineering, Computer Sciences and Technical Department, Soochow University
 
