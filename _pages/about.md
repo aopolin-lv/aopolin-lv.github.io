@@ -19,22 +19,16 @@ redirect_from:
 
 I am a second-year M.S. student at [Institute of Artifical Intellgence](http://iai.suda.edu.cn/) of [Soochow University](https://www.suda.edu.cn/), advised by Associate Prof. [Ziqiang Cao](https://scholar.google.com/citations?user=06ITfcEAAAAJ&hl=zh-CN) and Prof. [Guohong Fu](https://www.semanticscholar.org/author/G.-Fu/2059275). Before, I received B.S. degree in Software engineering from the same school.
 
-I am intersted in natural language processing. 
+I am intersted in natural language processing. Previously, I did some simple attempts to the Chinese Spelling Check task, and in future I would like to investigate the robustness, explainable of NLP models.
 
 # 📝 Publications 
+- [General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining](https://arxiv.org/abs/2203.10929)
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-
-[General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining](https://arxiv.org/abs/2203.10929)
 **Lv, Qi** and Cao, Ziqiang and Geng, Lei and Ai, Chunhui and Yan, Xu and Fu, Guohong
-<!-- 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+# 🏆Competition
+- The Evaluation Task of Chinese Textual Error Correction in Official Document Writing, held by Shuguang company and Jiangsu Artificial Intelligence Association. **Top 2**
+- The Evaluation Task of Named Entity Identification for E-Commodity Titles, held by National Association for artificial intelligence. **Rank 15/700+**
 
 # 📖 Educations
 - *2020.06 - 2022.04 (now)*, Computer Science, Computer Sciences and Technical Department, Soochow University
