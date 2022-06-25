@@ -21,7 +21,10 @@ I am a second-year M.S. student at [Institute of Artifical Intellgence](http://i
 
 I am interested in natural language processing and curious about many of the issues involved. Previously, I did some simple attempts to the Chinese Spelling Check task, and in future I would like to investigate the robustness, explainable of NLP models.
 
+I am also eager to work with nice researchers. I spend 50+ hours per week in NLP related research on average.
+
 # 📝 Publications 
+\* means equal contribution
 - [General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining](https://arxiv.org/abs/2203.10929)
 **Q Lv**\*, Z Cao\*, L Geng, C Ai, X Yan and G Fu (TALLIP, major revised)
 
