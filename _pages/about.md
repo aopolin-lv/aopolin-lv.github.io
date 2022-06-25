@@ -35,9 +35,9 @@ Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Cla
 # 🏆 Competition
 [The Entity Identification for E-Commodity Titles](https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content), held by National Association for Artificial Intelligence in 2022.6. **Rank 11/700+**
 
-Shuguang Cup Jiangsu University Official Document Correction Competition, held by Sugon company and Jiangsu Artificial Intelligence Association in 2021.12. **The 1st prize**
+The Shuguang Cup Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Sugon company and Jiangsu Artificial Intelligence Association in 2021.12. **The 1st prize**
 
-The Conditianal Story Text Generation based on Given Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2st prize**
+The Conditianal Story Text Generation based on Given Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2nd prize**
 
 # 📖 Educations
 *2020.06 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
