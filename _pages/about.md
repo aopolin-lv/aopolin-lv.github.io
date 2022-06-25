@@ -21,10 +21,10 @@ I am a second-year M.S. student at [Institute of Artifical Intellgence](http://i
 
 I am interested in natural language processing and curious about many of the issues involved. Before that, I started my research for more than a year and made some simple attempts on the Chinese Spell Checking task. In the future, I would like to investigate natural language processing more deeply and explore more from a cognitive perspective.
 
-At present, I am looking for Ph.d. opportunites. Meanwhile, I want to cooperate with nice researchers and keep learning from them. On average, I spend 50+ hours per week in NLP related research.
+At present, I am looking for Ph.d opportunites. Meanwhile, I want to cooperate with nice researchers and keep learning from them. On average, I spend 50+ hours per week in NLP related research.
 
 # 📝 Publications 
-\* means equal contribution
+\ \ \* means equal contribution
 
 - General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining.
 **Q Lv**\*, Z Cao\*, L Geng, C Ai, X Yan and G Fu (TALLIP, major revised) \[[PDF](https://arxiv.org/abs/2203.10929)\] \[[Code](https://github.com/Aopolin-Lv/ECSpell)\]
@@ -33,11 +33,11 @@ At present, I am looking for Ph.d. opportunites. Meanwhile, I want to cooperate 
 **Q Lv**\*, L Geng\*, Z Cao, M Cao, W Li, S Li and G FU (Neurips 2022, under review)
 
 # 🏆 Competitions
-- The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence in 2022.6. **The 3rd prize, ranking 11/700+** \[[Website]((https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content))\]
+- The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence and JD Inc. in 2022.6. **The 3rd prize, ranking 11/700+** \[[Website]((https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content))\]
 
-- The Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Sugon company and Jiangsu Artificial Intelligence Association in 2021.12. **The 1st prize, ranking 2/20+**
+- The Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Jiangsu Artificial Intelligence Association and Sugon Inc. in 2021.12. **The 1st prize, ranking 2/20+**
 
-- The Conditianal Story Text Generation based on Given Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2nd prize, ranking 2/20+**
+- The Conditianal Story Generation based on Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2nd prize, ranking 2/20+**
 
 # 📖 Educations
 *2020.09 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
@@ -45,7 +45,7 @@ At present, I am looking for Ph.d. opportunites. Meanwhile, I want to cooperate 
 *2014.09 - 2018.06*, B.E, Software Engineering, Computer Sciences and Technical Department, Soochow University
 
 # 💻 Internships
-*2022.04 - now*, Baidu.Inc, reasearch intern, working with [Wenrui Xie](https://github.com/datawhalechina/pumpkin-book) (whose github repos achieves 20k+ stars).
+*2022.04 - now*, Baidu Inc., reasearch intern, working with [Wenrui Xie](https://github.com/datawhalechina/pumpkin-book) (whose github repos achieves 20k+ stars).
 
 # 📋 Academic Activities
 Reviewer: ARR 2022 Feb, COLING 2022
