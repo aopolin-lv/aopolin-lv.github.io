@@ -21,7 +21,7 @@ I am a second-year M.S. student at [Institute of Artifical Intellgence](http://i
 
 I am interested in natural language processing and curious about many of the issues involved. Before that, I started my research for more than a year and made some simple attempts on the Chinese Spell Checking task. In the future, I would like to investigate natural language processing more deeply and explore more from a cognitive perspective.
 
-I am looking for Ph.d. opportunites. Meanwhile, I want to cooperate with nice researchers and keep learning from them. On average, I spend 50+ hours per week in NLP related research.
+At present, I am looking for Ph.d. opportunites. Meanwhile, I want to cooperate with nice researchers and keep learning from them. On average, I spend 50+ hours per week in NLP related research.
 
 # 📝 Publications 
 \* means equal contribution
