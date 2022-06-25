@@ -17,29 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 2-year MS student at [Institute of Artifical Intellgence, Soochow University](http://iai.suda.edu.cn/), advised by Associate Prof. [Ziqiang Cao](https://scholar.google.com/citations?user=06ITfcEAAAAJ&hl=zh-CN) and Prof. [Guohong Fu](https://www.semanticscholar.org/author/G.-Fu/2059275). Before, I received B.S. degree in Software engineering from the same school.
+I am a second-year M.S. student at [Institute of Artifical Intellgence](http://iai.suda.edu.cn/) of [Soochow University](https://www.suda.edu.cn/), advised by Associate Prof. [Ziqiang Cao](https://scholar.google.com/citations?user=06ITfcEAAAAJ&hl=zh-CN) and Prof. [Guohong Fu](https://www.semanticscholar.org/author/G.-Fu/2059275). Before, I received B.S. degree in Software engineering from the same school.
 
 I am intersted in natural language processing. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
+[General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining](https://arxiv.org/abs/2203.10929)
+**Lv, Qi** and Cao, Ziqiang and Geng, Lei and Ai, Chunhui and Yan, Xu and Fu, Guohong
+<!-- 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.06 - 2022.04 (now)*, Computer Science, Computer Sciences and Technical Department, Soochow University
+- *2014.09 - 2018.06*, Software engineering, Computer Sciences and Technical Department, Soochow University
 
 # 💻 Internships
 - *2022.04 - present*, Baidu.Inc, Beijing, China.
