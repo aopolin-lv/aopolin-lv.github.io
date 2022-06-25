@@ -42,7 +42,7 @@ At present, I am looking for Ph.d opportunites. Meanwhile, I want to cooperate w
 # 📖 Educations
 *2020.09 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
 
-*2014.09 - 2018.06*, B.E, Software Engineering, Computer Sciences and Technical Department, Soochow University
+*2014.09 - 2018.06*, Software Engineering, Computer Sciences and Technical Department, Soochow University
 
 # 💻 Internships
 *2022.04 - now*, Baidu Inc., reasearch intern, working with [Wenrui Xie](https://github.com/datawhalechina/pumpkin-book) (whose github repos achieves 20k+ stars).
