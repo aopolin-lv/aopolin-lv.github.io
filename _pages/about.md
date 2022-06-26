@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year M.S. student at [Institute of Artifical Intellgence](http://iai.suda.edu.cn/) of [Soochow University](https://www.suda.edu.cn/), advised by Associate Prof. [Ziqiang Cao](https://scholar.google.com/citations?user=06ITfcEAAAAJ) and Prof. [Guohong Fu](https://www.semanticscholar.org/author/G.-Fu/2059275). I am so honour to work with them. Before, I received B.E in Software engineering from the same school.
+I am a second-year M.S. student at [Institute of Artifical Intellgence](http://iai.suda.edu.cn/) of [Soochow University](https://www.suda.edu.cn/), advised by A/Prof. [Ziqiang Cao](https://scholar.google.com/citations?user=06ITfcEAAAAJ) and Prof. [Guohong Fu](https://www.semanticscholar.org/author/G.-Fu/2059275). I am so honour to work with them. Before, I received B.E in Software engineering from the same school.
 
 I am interested in natural language processing and curious about many of the issues involved. Before that, I started my research for more than a year and made some simple attempts on the Chinese Spell Check task. In the future, I would like to investigate natural language processing more deeply and explore more from a cognitive perspective.
 
@@ -37,7 +37,7 @@ At present, I am looking for Ph.d opportunites and I want to cooperate with nice
 
 - The Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Jiangsu Artificial Intelligence Association and Sugon Inc. in 2021.12. **The 1st prize, ranking 2/20+**
 
-- The Conditianal Story Generation based on Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2nd prize, ranking 3/20+**
+- The Conditional Story Generation based on Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2nd prize, ranking 3/20+**
 
 # 📖 Educations
 *2020.09 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
