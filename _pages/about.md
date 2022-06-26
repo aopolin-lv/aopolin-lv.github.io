@@ -45,7 +45,7 @@ At present, I am looking for Ph.d opportunites and I want to cooperate with nice
 *2014.09 - 2018.06*, Software Engineering, Computer Sciences and Technical Department, Soochow University
 
 # 💻 Internships
-*2022.04 - now*, Baidu Inc., reasearch intern, working with [Wenrui Xie](https://github.com/datawhalechina/pumpkin-book) (whose github repos achieves 20k+ stars).
+*2022.04 - now*, Baidu Inc., reasearch intern, working with [Wenrui Xie](https://github.com/datawhalechina/pumpkin-book) (whose github repos achieves **20k+** stars).
 
 # 📋 Academic Activities
 Reviewer: ARR 2022 Feb, COLING 2022  
