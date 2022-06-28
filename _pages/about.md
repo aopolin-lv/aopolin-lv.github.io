@@ -33,11 +33,11 @@ At present, I am looking for Ph.d opportunites and I want to cooperate with nice
 **Q Lv**\*, L Geng\*, Z Cao, M Cao, W Li, S Li and G FU (Neurips 2022, under review)
 
 # 🏆 Competitions
-- The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence and JD Inc. in 2022.6. **The 3rd prize, ranking 11/700+** \[[Website]((https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content))\]
+- The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence and JD Inc. in 2022.6. **The 3rd prize** \[[Website]((https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content))\]
 
-- The Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Jiangsu Artificial Intelligence Association and Sugon Inc. in 2021.12. **The 1st prize, ranking 2/20+**
+- The Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Jiangsu Artificial Intelligence Association and Sugon Inc. in 2021.12. **The 1st prize**
 
-- The Conditional Story Generation based on Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2nd prize, ranking 3/20+**
+- The Conditional Story Generation based on Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2nd prize**
 
 # 📖 Educations
 *2020.09 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
@@ -49,6 +49,6 @@ At present, I am looking for Ph.d opportunites and I want to cooperate with nice
 
 # 📋 Academic Activities
 Reviewer: ARR 2022 Feb, COLING 2022  
-Organizer: 
+Co-organizer: 
   - [CCKS 2022: The eval task of high quality article recognition based on knowledge graph](https://aistudio.baidu.com/aistudio/competition/detail/255/0/submit-result)
   - [CCL 2022: The eval task of video key moment generation](https://aistudio.baidu.com/aistudio/competition/detail/304/0/introduction)
