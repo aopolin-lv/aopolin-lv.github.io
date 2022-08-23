@@ -19,7 +19,7 @@ redirect_from:
 
 I am a third-year M.S. student at [Institute of Artifical Intellgence](http://iai.suda.edu.cn/) of [Soochow University](https://www.suda.edu.cn/), advised by A/Prof. [Ziqiang Cao](https://scholar.google.com/citations?user=06ITfcEAAAAJ) and Prof. [Guohong Fu](https://www.semanticscholar.org/author/G.-Fu/2059275). I am so honour to work with them. Before, I received B.E in Software engineering from the same school.
 
-I am interested in natural language processing and keep curious about many unsolved questions. Before, I started my research for more than a year and made some simple attempts on the Chinese Spell Check task. For future, I would like to investigate natural language processing more deeply and explore more from a cognitive perspective. For example, how to efficiently train a large model? how to build multimodal information storage units for a powerful AI? What's more, I do hope I could explore more fields which is helpful to industry. 
+I am interested in natural language processing and keep curious about many unsolved questions. For example, how to efficiently train a large model? how to build multimodal information storage units for a powerful AI? Before, I started my research for more than one year and made some simple attempts. For future, I would like to investigate natural language processing more deeply and explore more from a cognitive perspective. 
 
 At present, I am looking for PhD opportunites and cooperating with nice researchers in order to keep progressing.
 
