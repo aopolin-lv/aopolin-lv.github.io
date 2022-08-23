@@ -26,18 +26,22 @@ At present, I am looking for Ph.d opportunites and I want to cooperate with nice
 # 📝 Publications 
 \* means equal contribution
 
+- Visual Subtitle Feature Enhanced Video Outline Generation.
+**Q Lv**, Z Cao, W Xie, D Wang, J Wang, Z Hu, T Zhang, B Yuan, Y Hang, M Cao, S Li, S Li and G Fu (AAAI 2023, under review)
+
+- Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification.
+**Q Lv**\*, L Geng\*, Z Cao, M Cao, W Li, S Li and G Fu (Neurips 2022, under review)
+
 - General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining.
 **Q Lv**\*, Z Cao\*, L Geng, C Ai, X Yan and G Fu (TALLIP, major revised) \[[PDF](https://arxiv.org/abs/2203.10929)\] \[[Code](https://github.com/Aopolin-Lv/ECSpell)\]
 
-- Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification.
-**Q Lv**\*, L Geng\*, Z Cao, M Cao, W Li, S Li and G FU (Neurips 2022, under review)
 
 # 🏆 Competitions
-- The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence and JD Inc. in 2022.6. **The 3rd prize** \[[Website]((https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content))\]
+- Feedback Prize - Predicting Effective Arguments, held by Kaggle. in 2022.8. **Sliver Medal** \[[Website](https://www.kaggle.com/competitions/feedback-prize-effectiveness/overview)\]
+
+- The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence and JD Inc. in 2022.6. **The 3rd prize** \[[Website](https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content)\]
 
 - The Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Jiangsu Artificial Intelligence Association and Sugon Inc. in 2021.12. **The 1st prize**
-
-- The Conditional Story Generation based on Outlines, held by Chinese Information Processing Society of China in 2022.1. **The 2nd prize**
 
 # 📖 Educations
 *2020.09 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
@@ -48,7 +52,7 @@ At present, I am looking for Ph.d opportunites and I want to cooperate with nice
 *2022.04 - now*, Baidu Inc., reasearch intern, working with [Wenrui Xie](https://github.com/datawhalechina/pumpkin-book) (whose github repos achieves **20k+** stars).
 
 # 📋 Academic Activities
-Reviewer: ARR 2022 Feb, COLING 2022  
+Reviewer: ARR 2022 Feb, COLING 2022, EMNLP 2022, TALLIP  
 Co-organizer: 
   - [CCKS 2022: The eval task of high quality article recognition based on knowledge graph](https://aistudio.baidu.com/aistudio/competition/detail/255/0/submit-result)
-  - [CCL 2022: The eval task of video key moment generation](https://aistudio.baidu.com/aistudio/competition/detail/304/0/introduction)
+  - [CCL 2022: The eval task of video key moment extraction](https://aistudio.baidu.com/aistudio/competition/detail/304/0/introduction)
