@@ -33,7 +33,7 @@ At present, I am looking for PhD opportunites and cooperating with nice research
 **Q Lv**\*, L Geng\*, Z Cao, M Cao, W Li, S Li and G Fu
 
 - General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining.
-**Q Lv**\*, Z Cao\*, L Geng, C Ai, X Yan and G Fu (ACM Transactions on Asian and Low-Resource Language Information Processing,) \[[PDF](https://arxiv.org/abs/2203.10929)\] \[[Code](https://github.com/Aopolin-Lv/ECSpell)\]
+**Q Lv**\*, Z Cao\*, L Geng, C Ai, X Yan and G Fu (ACM Transactions on Asian and Low-Resource Language Information Processing) \[[PDF](https://arxiv.org/abs/2203.10929)\] \[[Code](https://github.com/Aopolin-Lv/ECSpell)\]
 
 
 # 🏆 Competitions
