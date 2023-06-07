@@ -25,7 +25,7 @@ I am interested in natural language processing and keep curious about many unsol
 \* means equal contribution
 
 - Visual Subtitle Feature Enhanced Video Outline Generation.
-**Qi Lv**, Ziqiang Cao, Wenrui Xie, Derui Wang, Jingwen Wang, Zhiyong Hu, Tangkun Zhang, Ba Yuan, Yuanhang Li, Min Cao, Wenjie Li, Sujian Li and Guohong Fu \[[PDF](https://arxiv.org/abs/2208.11307)\]
+**Qi Lv**, Ziqiang Cao, Wenrui Xie, Derui Wang, Jingwen Wang, Zhiwei Hu, Tangkun Zhang, Ba Yuan, Yuanhang Li, Min Cao, Wenjie Li, Sujian Li and Guohong Fu \[[PDF](https://arxiv.org/abs/2208.11307)\]
 
 - Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification.
 **Qi Lv**\*, Lei Geng\*, Ziqiang Cao, Min Cao, Sujian Li, Sujian Li and Guohong Fu \[[PDF](http://https://openreview.net/forum?id=5cio7DSIXLQ)\]
