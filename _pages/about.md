@@ -21,19 +21,17 @@ I am a third-year M.S. student at [Institute of Artifical Intellgence](http://ia
 
 I am interested in natural language processing and keep curious about many unsolved questions. For example, how to efficiently train a large model? how to build multimodal information storage units for a powerful AI? Before, I started my research for more than one year and made some simple attempts. For future, I would like to investigate natural language processing more deeply and explore more from a cognitive perspective. 
 
-At present, I am looking for PhD opportunites and cooperating with nice researchers in order to keep progressing.
-
 # 📝 Publications 
 \* means equal contribution
 
 - Visual Subtitle Feature Enhanced Video Outline Generation.
-**Q Lv**, Z Cao, W Xie, D Wang, J Wang, Z Hu, T Zhang, B Yuan, Y Hang, M Cao, S Li, S Li and G Fu
+**Qi Lv**, Ziqiang Cao, Wenrui Xie, Derui Wang, Jingwen Wang, Zhiyong Hu, Tangkun Zhang, Ba Yuan, Yuanhang Li, Min Cao, Wenjie Li, Sujian Li and Guohong Fu \[[PDF](https://arxiv.org/abs/2208.11307)\]
 
 - Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification.
-**Q Lv**\*, L Geng\*, Z Cao, M Cao, W Li, S Li and G Fu
+**Qi Lv**\*, Lei Geng\*, Ziqiang Cao, Min Cao, Sujian Li, Sujian Li and Guohong Fu \[[PDF](http://https://openreview.net/forum?id=5cio7DSIXLQ)\]
 
 - General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining.
-**Q Lv**\*, Z Cao\*, L Geng, C Ai, X Yan and G Fu (ACM Transactions on Asian and Low-Resource Language Information Processing) \[[PDF](https://arxiv.org/abs/2203.10929)\] \[[Code](https://github.com/Aopolin-Lv/ECSpell)\]
+**Qi Lv**\*, Ziqiang Cao\*, Lei Geng, Chunhui Ai, Xu Yan and Guohong Fu (ACM Transactions on Asian and Low-Resource Language Information Processing) \[[PDF](https://arxiv.org/abs/2203.10929)\] \[[Code](https://github.com/Aopolin-Lv/ECSpell)\]
 
 
 # 🏆 Competitions
@@ -49,7 +47,7 @@ At present, I am looking for PhD opportunites and cooperating with nice research
 *2014.09 - 2018.06*, Software Engineering, Computer Sciences and Technical Department, Soochow University
 
 # 💻 Internships
-*2022.04 - now*, Baidu Inc., reasearch intern, working with [Wenrui Xie](https://github.com/datawhalechina/pumpkin-book) (whose github repos achieves **20k+** stars).
+*2022.04 - 2022.1*, Baidu Inc., reasearch intern, working with [Wenrui Xie](https://github.com/datawhalechina/pumpkin-book) (whose github repos achieves **20k+** stars).
 
 # 📋 Academic Activities
 Reviewer: ARR 2022 Feb, COLING 2022, EMNLP 2022, TALLIP  
