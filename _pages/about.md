@@ -38,11 +38,11 @@ Siqi Song, **Qi Lv**, Lei Geng, Ziqiang Cao, Guohong Fu (NLPCC 2023) [\[PDF\]](h
 
 
 # 🏆 Competitions
-- Google AI4Code – Understand Code in Python Notebooks, held by Google and X (Kaggle). in 2022.8. **Bronze Medal** [\[Website\[](https://www.kaggle.com/competitions/AI4Code)
+- Google AI4Code – Understand Code in Python Notebooks, held by Google and X (Kaggle). in 2022.8. **Bronze Medal** [\[Website\]](https://www.kaggle.com/competitions/AI4Code)
 
-- Feedback Prize - Predicting Effective Arguments, held by Georgia State University (Kaggle). in 2022.8. **Sliver Medal** [\[Website\[](https://www.kaggle.com/competitions/feedback-prize-effectiveness/overview)
+- Feedback Prize - Predicting Effective Arguments, held by Georgia State University (Kaggle). in 2022.8. **Sliver Medal** [\[Website\]](https://www.kaggle.com/competitions/feedback-prize-effectiveness/overview)
 
-- The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence and JD Inc. in 2022.6. **The 3rd prize** [\[Website\[](https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content)
+- The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence and JD Inc. in 2022.6. **The 3rd prize** [\[Website\]](https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content)
 
 - The Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Jiangsu Artificial Intelligence Association and Sugon Inc. in 2021.12. **The 1st prize**
 
