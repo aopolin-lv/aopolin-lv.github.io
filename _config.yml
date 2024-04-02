@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qi Lv (吕奇)"
-description              : "New reasearcher in NLP"
+description              : "Ph.D Student"
 repository               : "Aopolin-Lv/aopolin-lv.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qi Lv (吕奇)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Soochow University"
-  location         : "Beijing, China"
+  bio              : "Harbin Institute of Technology (Shenzhen) && Great Bay University"
+  location         : "Shenzhen, Guangdong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4obt24UAAAAJ"
