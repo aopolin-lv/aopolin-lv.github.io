@@ -17,12 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year M.S. student at [Institute of Artifical Intellgence](http://iai.suda.edu.cn/) of [Soochow University](https://www.suda.edu.cn/), advised by A/Prof. [Ziqiang Cao](https://scholar.google.com/citations?user=06ITfcEAAAAJ) and Prof. [Guohong Fu](https://www.semanticscholar.org/author/G.-Fu/2059275). I am so honour to work with them. Before, I received B.E in Software engineering from the same school.
+Hi, my name is Qi Lv (吕奇). I am currently a first-year Ph.D student in Harbin Institute of Technology (Shenzhen) and Great Bay University, advised by [Xiang Deng](https://xiang-deng-dl.github.io/), [Liqiang Nie](https://liqiangnie.github.io/index.html), [Michael Yu Wang](https://scholar.google.com/citations?hl=zh-CN&user=Oo7c22wAAAAJ). Before, I received M.S and B.E in Software engineering from Soochow University, supervised by [Ziqiang Cao](https://scholar.google.com/citations?user=06ITfcEAAAAJ&hl=zh-CN) and [Guohong Fu](https://openreview.net/profile?id=~Guohong_Fu1).
 
-I am interested in natural language processing and keep curious about many unsolved questions. For example, how to efficiently train a large model? how to build multimodal information storage units for a powerful AI? Before, I started my research for more than one year and made some simple attempts. For future, I would like to investigate natural language processing more deeply and explore more from a cognitive perspective. 
+I am now interested in Multimodal Large Language Models (MLLMs) and robotic learning. Specifically, I am investigating how to leverage MLLMs to empower embodied agents which consists of high-level task planning and low-level motion control. Previously, I devoted to exploring natural language understanding during the master period.
 
 # 📝 Publications 
 \* means equal contribution
+
+- RSpell: Retrieval-augmented Framework for Domain Adaptive Chinese Spelling Check.
+Siqi Song, **Qi Lv**, Lei Geng, Ziqiang Cao, Guohong Fu (NLPCC 2023) \[[PDF](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_43)\]
 
 - Visual Subtitle Feature Enhanced Video Outline Generation.
 **Qi Lv**, Ziqiang Cao, Wenrui Xie, Derui Wang, Jingwen Wang, Zhiwei Hu, Tangkun Zhang, Ba Yuan, Yuanhang Li, Min Cao, Wenjie Li, Sujian Li and Guohong Fu \[[PDF](https://arxiv.org/abs/2208.11307)\]
@@ -35,14 +38,18 @@ I am interested in natural language processing and keep curious about many unsol
 
 
 # 🏆 Competitions
-- Feedback Prize - Predicting Effective Arguments, held by Kaggle. in 2022.8. **Sliver Medal** \[[Website](https://www.kaggle.com/competitions/feedback-prize-effectiveness/overview)\]
+- Google AI4Code – Understand Code in Python Notebooks, held by Google and X (Kaggle). in 2022.8. **Bronze Medal** \[[Website](https://www.kaggle.com/competitions/AI4Code)\]
+
+- Feedback Prize - Predicting Effective Arguments, held by Georgia State University (Kaggle). in 2022.8. **Sliver Medal** \[[Website](https://www.kaggle.com/competitions/feedback-prize-effectiveness/overview)\]
 
 - The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence and JD Inc. in 2022.6. **The 3rd prize** \[[Website](https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content)\]
 
 - The Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Jiangsu Artificial Intelligence Association and Sugon Inc. in 2021.12. **The 1st prize**
 
 # 📖 Educations
-*2020.09 - now*, Computer Science, Computer Sciences and Technical Department, Soochow University
+*2023.09 - now*, Computer Science, Computer Sciences and Technical Department, Harbin Institute of Technology (Shenzhen) && Great Bay University
+
+*2020.09 - 2023.06*, Computer Science, Computer Sciences and Technical Department, Soochow University
 
 *2014.09 - 2018.06*, Software Engineering, Computer Sciences and Technical Department, Soochow University
 
