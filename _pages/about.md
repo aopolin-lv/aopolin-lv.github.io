@@ -34,7 +34,7 @@ Siqi Song, **Qi Lv**, Lei Geng, Ziqiang Cao, Guohong Fu (NLPCC 2023) [\[PDF\]](h
 **Qi Lv**\*, Lei Geng\*, Ziqiang Cao, Min Cao, Sujian Li, Sujian Li and Guohong Fu [\[PDF\]](http://https://openreview.net/forum?id=5cio7DSIXLQ)
 
 - General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining.
-**Qi Lv**\*, Ziqiang Cao\*, Lei Geng, Chunhui Ai, Xu Yan and Guohong Fu (ACM Transactions on Asian and Low-Resource Language Information Processing) [\[PDF\]](https://arxiv.org/abs/2203.10929) [\[Code\]](https://github.com/Aopolin-Lv/ECSpell)
+**Qi Lv**\*, Ziqiang Cao\*, Lei Geng, Chunhui Ai, Xu Yan and Guohong Fu (ACM TALLIP) [\[PDF\]](https://arxiv.org/abs/2203.10929) [\[Code\]](https://github.com/Aopolin-Lv/ECSpell)
 
 
 # 🏆 Competitions
