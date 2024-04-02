@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Qi Lv (吕奇). I am currently a first-year Ph.D student in Harbin Institute of Technology (Shenzhen) and Great Bay University, advised by [Liqiang Nie](https://liqiangnie.github.io/index.html), and [Michael Yu Wang](https://scholar.google.com/citations?hl=zh-CN&user=Oo7c22wAAAAJ), co-supervised by [Xiang Deng](https://xiang-deng-dl.github.io/). Before, I received M.S and B.E from Soochow University, supervised by [Ziqiang Cao](https://scholar.google.com/citations?user=06ITfcEAAAAJ&hl=zh-CN) and [Guohong Fu](https://openreview.net/profile?id=~Guohong_Fu1).
+Hi, my name is Qi Lv (吕奇). I am currently a first-year Ph.D student in Harbin Institute of Technology (Shenzhen) and Great Bay University, advised by [Michael Yu Wang](https://scholar.google.com/citations?hl=zh-CN&user=Oo7c22wAAAAJ), and [Liqiang Nie](https://liqiangnie.github.io/index.html), co-supervised by [Xiang Deng](https://xiang-deng-dl.github.io/). Before, I received M.S and B.E from Soochow University, supervised by [Ziqiang Cao](https://scholar.google.com/citations?user=06ITfcEAAAAJ&hl=zh-CN) and [Guohong Fu](https://openreview.net/profile?id=~Guohong_Fu1).
 
 I am now interested in Multimodal Large Language Models (MLLMs) and robotic learning. Specifically, I am investigating how to leverage MLLMs to empower embodied agents which are involved in high-level task planning and low-level motion control. Previously, I devoted to exploring natural language understanding during the master period.
 
