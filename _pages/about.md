@@ -50,7 +50,7 @@ Siqi Song, **Qi Lv**, Lei Geng, Ziqiang Cao, Guohong Fu (NLPCC 2023) [\[PDF\]](h
 - The Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Jiangsu Artificial Intelligence Association and Sugon Inc. in 2021.12. **The 1st prize**
 
 # 📖 Educations
-*2023.09 - now*, Computer Science, Computer Sciences and Technical Department, Harbin Institute of Technology (Shenzhen) && Great Bay University
+*2023.09 - now*, Computer Science, Computer Sciences and Technical Department, Harbin Institute of Technology (Shenzhen) & Great Bay University
 
 *2020.09 - 2023.06*, Computer Science, Computer Sciences and Technical Department, Soochow University
 
