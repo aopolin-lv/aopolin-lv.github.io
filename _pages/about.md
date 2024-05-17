@@ -24,19 +24,19 @@ I am now interested in Multimodal Large Language Models (MLLMs) and robotic lear
 # 📝 Publications 
 \* means equal contribution
 
-- RoboMP$^2$: A Robotic Multimodal Perception-Planning Framework with Multimodal Large Language Models.
-**Qi Lv**, Hao Li, Xiang Deng, Rui Shao, Michael Yu Wang, Liqiang Nie [\[Website\]](https://aopolin-lv.github.io/RoboMP2.github.io/) [\[PDF\]](https://arxiv.org/abs/2404.04929)
+- RoboMP$^2$: A Robotic Multimodal Perception-Planning Framework with Multimodal Large Language Models.  
+**Qi Lv**, Hao Li, Xiang Deng, Rui Shao, Michael Yu Wang, Liqiang Nie [\[Website\]](https://aopolin-lv.github.io/RoboMP2.github.io/) (ICML 2023) [\[PDF\]](https://arxiv.org/abs/2404.04929)
 
-- RSpell: Retrieval-augmented Framework for Domain Adaptive Chinese Spelling Check.
+- RSpell: Retrieval-augmented Framework for Domain Adaptive Chinese Spelling Check.  
 Siqi Song, **Qi Lv**, Lei Geng, Ziqiang Cao, Guohong Fu (NLPCC 2023) [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_43) [\[Code\]](https://github.com/47777777/Rspell)
 
-- Visual Subtitle Feature Enhanced Video Outline Generation.
+- Visual Subtitle Feature Enhanced Video Outline Generation.  
 **Qi Lv**, Ziqiang Cao, Wenrui Xie, Derui Wang, Jingwen Wang, Zhiwei Hu, Tangkun Zhang, Ba Yuan, Yuanhang Li, Min Cao, Wenjie Li, Sujian Li and Guohong Fu [\[PDF\]](https://arxiv.org/abs/2208.11307)
 
-- Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification.
+- Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification.  
 **Qi Lv**\*, Lei Geng\*, Ziqiang Cao, Min Cao, Sujian Li, Sujian Li and Guohong Fu [\[PDF\]](http://https://openreview.net/forum?id=5cio7DSIXLQ)
 
-- General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining.
+- General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining.   
 **Qi Lv**\*, Ziqiang Cao\*, Lei Geng, Chunhui Ai, Xu Yan and Guohong Fu (ACM TALLIP) [\[PDF\]](https://arxiv.org/abs/2203.10929) [\[Code\]](https://github.com/Aopolin-Lv/ECSpell)
 
 
