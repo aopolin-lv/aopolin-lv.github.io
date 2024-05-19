@@ -25,7 +25,7 @@ I am now interested in Multimodal Large Language Models (MLLMs) and robotic lear
 \* means equal contribution
 
 - RoboMP$^2$: A Robotic Multimodal Perception-Planning Framework with Multimodal Large Language Models.  
-**Qi Lv**, Hao Li, Xiang Deng, Rui Shao, Michael Yu Wang, Liqiang Nie (ICML 2023) [\[Website\]](https://aopolin-lv.github.io/RoboMP2.github.io/) [\[PDF\]](https://arxiv.org/abs/2404.04929)
+**Qi Lv**, Hao Li, Xiang Deng, Rui Shao, Michael Yu Wang, Liqiang Nie (ICML 2024) [\[Website\]](https://aopolin-lv.github.io/RoboMP2.github.io/) [\[PDF\]](https://arxiv.org/abs/2404.04929)
 
 - RSpell: Retrieval-augmented Framework for Domain Adaptive Chinese Spelling Check.  
 Siqi Song, **Qi Lv**, Lei Geng, Ziqiang Cao, Guohong Fu (NLPCC 2023) [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_43) [\[Code\]](https://github.com/47777777/Rspell)
