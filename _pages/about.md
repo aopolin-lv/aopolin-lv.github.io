@@ -57,7 +57,7 @@ Siqi Song, **Qi Lv**, Lei Geng, Ziqiang Cao, Guohong Fu (NLPCC 2023) [\[PDF\]](h
 *2014.09 - 2018.06*, Software Engineering, Computer Sciences and Technical Department, Soochow University
 
 # 💻 Internships
-*2022.04 - 2023.1*, Baidu Inc., reasearch intern, working with [Wenrui Xie](https://github.com/datawhalechina/pumpkin-book) (whose github repos achieves **20k+** stars).
+*2022.04 - 2023.1*, Baidu Inc., reasearch intern, working with [Wenrui Xie](https://github.com/datawhalechina/pumpkin-book) (whose github repos achieve **20k+** stars).
 
 # 📋 Academic Activities
 Reviewer: ACL 2023, COLING 2023, ARR 2022 Feb, COLING 2022, EMNLP 2022, TALLIP  
