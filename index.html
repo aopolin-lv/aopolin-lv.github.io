@@ -20,10 +20,21 @@
         header {
             background-color: #ffffff;
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            text-align: center;
             padding: 5px;
             margin: 40px;
-            height: auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            text-align: left;
+        }
+        .header-text {
+            flex: 1;
+            margin-left: 40px;
+        }
+        header img {
+            height: 200px; /* 固定高度 */
+            width: auto; /* 宽度自动调整 */
+            margin-right: 22px;
         }
         section {
             margin: 40px;
@@ -77,11 +88,12 @@
         }
         .social-icons {
             display: flex;
-            justify-content: center;
+            justify-content: left;
             margin-bottom: 20px;
+            margin-left: -2px;
         }
         .social-icons a {
-            margin: 0 10px;
+            margin: 0 5px;
             color: #333333;
         }
         .social-icons a:hover {
@@ -92,21 +104,23 @@
             margin: 0 auto;
         }
         ul li {
-        margin-bottom: 10px; /* 设置每个列表项之间的底部外边距 */
+            margin-bottom: 10px; /* 设置每个列表项之间的底部外边距 */
         }
     </style>
 </head>
 <body class="narrow-page">
     <header>
-        <h1>Qi Lv (吕奇)</h1>
-        <p>Ph.D. student</p>
-        <p>Harbin Institute of Technology (Shenzhen) and Great Bay University</p>
-        <p>Email: aopolin.ii at gmail.com</p>
-        <img src="./assets/2寸照片(3.5-5.3).jpg" alt="Your Photo">
-        <div class="social-icons">
-            <a href="https://scholar.google.com" target="_blank"><i class="fas fa-graduation-cap"></i></a>
-            <a href="https://github.com/your-username" target="_blank"><i class="fab fa-github"></i></a>
+        <div class="header-text">
+            <h1>Qi Lv (吕奇)</h1>
+            <p>Ph.D. student</p>
+            <p>Harbin Institute of Technology (Shenzhen) and Great Bay University</p>
+            <p>Email: aopolin.ii@gmail.com</p>
+            <div class="social-icons">
+                <a href="https://scholar.google.com" target="_blank"><i class="fas fa-graduation-cap"></i></a>
+                <a href="https://github.com/your-username" target="_blank"><i class="fab fa-github"></i></a>
+            </div>
         </div>
+        <img src="./assets/2寸照片(3.5-5.3).jpg" alt="Your Photo">
     </header>
 
     <section id="about-me">
@@ -159,10 +173,10 @@
     <section id="awards">
         <h2>Awards</h2>
         <ul>
-            <li>2022.8. Google AI4Code - Understand Code in Python Notebooks, held by Google and X (Kaggle). Bronze Medal <a href="https://www.kaggle.com/competitions/AI4Code">[Website]</a></lili>
-            <li>2022.8. Feedback Prize - Predicting Effective Arguments, held by Georgia State University (Kaggle). Sliver Medal <a href="https://www.kaggle.com/competitions/feedback-prize-effectiveness/overview">[Website]</a></lili>
-            <li>2022.6. The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence and JD Inc. The 3rd prize <a href="https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content">[Website]</a></lili>
-            <li>2021.12. The Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Jiangsu Artificial Intelligence Association and Sugon Inc. The 1st prize</lili>
+            <li>2022.8. Google AI4Code - Understand Code in Python Notebooks, held by Google and X (Kaggle). Bronze Medal <a href="https://www.kaggle.com/competitions/AI4Code">[Website]</a></li>
+            <li>2022.8. Feedback Prize - Predicting Effective Arguments, held by Georgia State University (Kaggle). Sliver Medal <a href="https://www.kaggle.com/competitions/feedback-prize-effectiveness/overview">[Website]</a></li>
+            <li>2022.6. The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence and JD Inc. The 3rd prize <a href="https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content">[Website]</a></li>
+            <li>2021.12. The Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Jiangsu Artificial Intelligence Association and Sugon Inc. The 1st prize</li>
         </ul>
     </section>
 
