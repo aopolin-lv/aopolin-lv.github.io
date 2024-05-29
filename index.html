@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qi Lv - Academic Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            font-family: 'Lora', serif;
+            background-color: #ffffff;
+            color: #333333;
+        }
+        h1, h2 {
+            color: #003366; /* 深蓝色 */
+        }
+        header {
+            background-color: #ffffff;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            text-align: center;
+            padding: 5px;
+            margin: 40px;
+            height: 120px;
+        }
+        section {
+            margin: 40px;
+            padding: 40px;
+            background-color: #f5f5f5;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .publication {
+            display: flex;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        .publication img,
+        .publication video {
+            width: 300px;
+            height: auto;
+            margin-right: 20px;
+        }
+        .publication h3 {
+            margin: 0;
+            font-size: 1.2em;
+        }
+        .publication p {
+            margin: 5px 0 0 0;
+            font-size: 0.9em;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        #about-me {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        #about-me img {
+            width: 120px;
+            height: auto;
+            margin-top: 20px;
+            margin-left: 8px;
+            border: 3px solid #cccccc;
+        }
+        .social-icons {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        .social-icons a {
+            margin: 0 10px;
+            color: #333333;
+        }
+        .social-icons a:hover {
+            color: #007bff;
+        }
+        .narrow-page {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        ul li {
+        margin-bottom: 10px; /* 设置每个列表项之间的底部外边距 */
+        }
+    </style>
+</head>
+<body class="narrow-page">
+    <header>
+        <h1>Qi Lv (吕奇)</h1>
+        <div class="social-icons">
+            <a href="https://scholar.google.com" target="_blank"><i class="fas fa-graduation-cap"></i></a>
+            <a href="https://github.com/your-username" target="_blank"><i class="fab fa-github"></i></a>
+        </div>
+    </header>
+
+    <section id="about-me">
+        <div>
+            <h2>About Me</h2>
+            <p>Hi, my name is Qi Lv (吕奇). I am currently a first-year Ph.D student in Harbin Institute of Technology (Shenzhen) and Great Bay University, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=Oo7c22wAAAAJ">Yu Wang</a>, and <a href="https://liqiangnie.github.io/index.html">Liqiang Nie</a>, co-supervised by <a href="https://xiang-deng-dl.github.io/">Xiang Deng</a>. Before, I received M.S and B.E from Soochow University, supervised by <a href="https://scholar.google.com/citations?user=06ITfcEAAAAJ&hl=zh-CN">Ziqiang Cao</a> and <a href="https://openreview.net/profile?id=~Guohong_Fu1">Guohong Fu</a>. 
+                
+                <br><br>
+                I am now interested in Multimodal Large Language Models (MLLMs) and robotic learning. Specifically, I am investigating how to leverage MLLMs to empower embodied agents which are involved in high-level task planning and low-level motion control. Previously, I devoted to exploring natural language understanding during the master period.</p>
+        </div>
+        <img src="./assets/2寸照片(3.5-5.3).jpg" alt="Your Photo">
+    </section>
+
+    <section id="publications">
+        <h2>Publications</h2>
+        <div class="publication">
+            <video controls muted autoplay loop width="93%">
+                <source src="./assets/robomp2/robomp2.mp4" type="video/mp4">
+            </video>
+            <div>
+                <h3>RoboMP<sup>2</sup>: A Robotic Multimodal Perception-Planning Framework with Multimodal Large Language Models</h3>
+                <p><b>Qi Lv</b>, Hao Li, Xiang Deng, Rui Shao, Michael Yu Wang, Liqiang Nie</p>
+                <p>ICML 2024</p>
+                <a href="https://aopolin-lv.github.io/RoboMP2.github.io/">[Project]</a>
+                <a href="https://arxiv.org/abs/2404.04929">[Paper]</a>
+                <a href="">[Code]</a>
+            </div>
+        </div>
+        <div class="publication">
+            <img src="./assets/ecspell/ecspell.png">
+            <div>
+                <h3>General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining</h3>
+                <p><b>Qi Lv</b>*, Ziqiang Cao*, Lei Geng, Chunhui Ai, Xu Yan and Guohong Fu</p>
+                <p>ACM TALLIP</p>
+                <a href="https://arxiv.org/abs/2203.10929">[Paper]</a>
+                <a href="https://github.com/Aopolin-Lv/ECSpell">[Code]</a>
+            </div>
+        </div>
+        <!-- Add more publications as needed -->
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <ul>
+            <li>2023.09 - now, Computer Science, Harbin Institute of Technology (Shenzhen) & Great Bay University</li>
+            <li>2020.09 - 2023.06, Computer Science, Soochow University</li>
+            <li>2014.09 - 2018.06, Software Engineering, Soochow University</li>
+        </ul>
+    </section>
+
+    <section id="awards">
+        <h2>Awards</h2>
+        <ul>
+            <li>2022.8. Google AI4Code - Understand Code in Python Notebooks, held by Google and X (Kaggle). Bronze Medal <a href="https://www.kaggle.com/competitions/AI4Code">[Website]</a></lili>
+            <li>2022.8. Feedback Prize - Predicting Effective Arguments, held by Georgia State University (Kaggle). Sliver Medal <a href="https://www.kaggle.com/competitions/feedback-prize-effectiveness/overview">[Website]</a></lili>
+            <li>2022.6. The Entity Identification for E-Commodity Titles, held by National Association for Artificial Intelligence and JD Inc. The 3rd prize <a href="https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content">[Website]</a></lili>
+            <li>2021.12. The Chinese Textual Error Correction Competition in Official Document Writing of Jiangsu University, held by Jiangsu Artificial Intelligence Association and Sugon Inc. The 1st prize</lili>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Contact me at <a href="mailto:aopolin.ii@gmail.com">aopolin.ii@gmail.com</a></p>
+    </footer>
+
+</body>
+</html>
