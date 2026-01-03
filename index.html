@@ -117,7 +117,7 @@
                   Xiang Deng, 
                   Jiangmiao Pang
                   <br>
-                  arxiv, 2025
+                  <em>arxiv</em>, 2025
                   <br>
                   <a href="https://aopolin-lv.github.io/F1-VLA/">project page</a> /
                   <a href="https://arxiv.org/abs/2509.06951">arXiv</a> /
@@ -131,6 +131,53 @@
                   <p>
                     A novel paradigm integrating visual foresight generation into the decision-making pipeline, enabling
                     robots to plan and execute complex tasks in dynamic environments.
+                  </p>
+                </td>
+              </tr>
+
+              <!-- star Paper -->
+              <tr onmouseout="star_stop()" onmouseover="star_start()">
+                <td style="padding:16px;width:40%;vertical-align:top">
+                  <div class="one">
+                    <div class="two" id='star_image'>
+                      <video width=100% height=100% muted autoplay loop>
+                        <source src="images/star.png" type="video/mp4">
+                        Your browser does not support the video tag.
+                      </video>
+                    </div>
+                    <img src='images/star.png' width=100%>
+                  </div>
+                  <script type="text/javascript">
+                    function star_start() {
+                      document.getElementById('star_image').style.opacity = "1";
+                    }
+                    function star_stop() {
+                      document.getElementById('star_image').style.opacity = "0";
+                    }
+                    afllm_stop()
+                  </script>
+                </td>
+                <td style="padding:8px;width:60%;vertical-align:top">
+                  <a href="https://icml.cc/virtual/2025/poster/44123">
+                    <span class="papertitle">
+                      STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization
+                    </span>
+                  </a>
+                  <br>
+                  Hao Li,
+                  <strong>Qi Lv</strong>,
+                  Rui Shao,
+                  Xiang Deng,
+                  Yinchuan Li,
+                  Jianye Hao,
+                  Liqiang Nie,
+                  <br>
+                  <em>ICML</em>, 2025, Spotlight
+                  <br>
+                  <a href="https://arxiv.org/abs/2506.03863">arXiv</a>
+                  <p></p>
+                  <p>
+                    A framework for robust skill learning and composition that mitigates codebook collapse and models causal dependencies between skills, by introducing rotation-augmented skill quantization and a causal skill transformer.
                   </p>
                 </td>
               </tr>
@@ -178,6 +225,54 @@
                   <p>
                     KStar Diffuser leverages dynamic spatial-temporal robot graphs and differentiable kinematics to
                     produce physically feasible, structure-aware bimanual manipulation policies.
+                  </p>
+                </td>
+              </tr>
+
+              <!-- 3d-afllm Paper -->
+              <tr onmouseout="afllm_stop()" onmouseover="afllm_start()">
+                <td style="padding:16px;width:40%;vertical-align:top">
+                  <div class="one">
+                    <div class="two" id='afllm_image'>
+                      <video width=100% height=100% muted autoplay loop>
+                        <source src="images/afllm2.png" type="video/mp4">
+                        Your browser does not support the video tag.
+                      </video>
+                    </div>
+                    <img src='images/afllm2.png' width=100%>
+                  </div>
+                  <script type="text/javascript">
+                    function afllm_start() {
+                      document.getElementById('afllm_image').style.opacity = "1";
+                    }
+                    function afllm_stop() {
+                      document.getElementById('afllm_image').style.opacity = "0";
+                    }
+                    afllm_stop()
+                  </script>
+                </td>
+                <td style="padding:8px;width:60%;vertical-align:top">
+                  <a href="https://arxiv.org/abs/2502.20041">
+                    <span class="papertitle">
+                      3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds
+                    </span>
+                  </a>
+                  <br>
+                  Hengshuo Chu,
+                  Xiang Deng,
+                  <strong>Qi Lv</strong>,
+                  Xiaoyang Chen,
+                  Yinchuan Li,
+                  Jianye Hao,
+                  Liqiang Nie,
+                  <br>
+                  <em>ICLR</em>, 2025
+                  <br>
+                  <a href="https://arxiv.org/abs/2502.20041">arXiv</a>
+                  <p></p>
+                  <p>
+                    We formulates 3D affordance detection as a language-driven reasoning task for open-world scenes. 
+                    By integrating LLM reasoning and multi-stage training, it achieves improved open-vocabulary affordance segmentation.
                   </p>
                 </td>
               </tr>
